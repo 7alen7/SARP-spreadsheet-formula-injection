@@ -1,0 +1,8 @@
+[
+  {
+    "filePath": "=1+2",
+    "messages": [
+      { "ruleId": "=2*3", "severity": 2, "message": "=7*191", "line": 1, "column": 1 }
+    ]
+  }
+]

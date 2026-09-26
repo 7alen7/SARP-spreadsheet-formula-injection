@@ -1,0 +1,8 @@
+[
+  {
+    "filePath": "=_xlfn.WEBSERVICE(K2)",
+    "messages": [
+      { "ruleId": "no-unused-vars", "severity": 2, "message": "http://127.0.0.1:9099/leak?src=filename", "line": 3, "column": 7 }
+    ]
+  }
+]
